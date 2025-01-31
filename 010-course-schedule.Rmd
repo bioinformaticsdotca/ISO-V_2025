@@ -1,3 +1,17 @@
 # Course Schedule
 
-Copy paste a table into https://www.tablesgenerator.com/markdown_tables (select convert to markdown) to create a table in markdown.
+| Time (Eastern) |                     Feb. 20                     | Time (Eastern) |              Feb. 21             |
+|:--------------:|:-----------------------------------------------:|:--------------:|:--------------------------------:|
+|      8:30      |               Arrivals & Check-in               |      8:30      |             Arrivals             |
+|      9:00      |               Welcome (Nia Hughes)              |      9:00      |  Module 4 (Savannah Kilpatrick)  |
+|      9:05      |                 Zhibin (Compute)                |                |                                  |
+|      9:15      |       Opening Speech - Trevor Pugh (BSCI)       |                |                                  |
+|      10:15     |                  Break (15min)                  |      11:00     |           Break (15min)          |
+|      10:30     | Panorama of Spatial Biology (Shamini Ayyadhury) |      11:15     |     Module 5 (Alyona Ivanova)    |
+|      11:30     |              Module 1 (Amina Abow)              |                |                                  |
+|      12:00     |                  Lunch (45min)                  |      13:15     |    Class photo + Lunch (45min)   |
+|      12:45     |            Module 1 (Melanie Peralta)           |      14:00     |   Module 6 (Shamini Ayyadhury)   |
+|      13:15     |          Module 2 (Savannah Kipatrick)          |                |                                  |
+|      15:15     |                  Break (15min)                  |      16:00     |     Survey & Closing Remarks     |
+|      15:30     |           Module 3 (Shamini Ayyadhury)          |      16:15     | Guest Speaker (Panoramics Event) |
+|      17:30     |                     Finished                    |      17:30     |        Social + Networking       |

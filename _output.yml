@@ -7,13 +7,18 @@ bookdown::gitbook:
         <img src="img/bioinformatics_logo.png" width="90%" alt="bioinformatics.ca logo" style="display:block; margin-left:auto; margin-right:auto; margin-top:15px;">
         </a>
 
-        <li><a href="./">[YOUR WORKSHOP NAME]</a></li>
+        <li><a href="./">Introductory Spatial 'Omics Analysis: Visium HD</a></li>
       after: |
         <h1 id="sponsors">Sponsors</h1>
 
-        <img src="img/sponsors/Your-Sponsor-Here.svg" width=100%> <!--- replace the directory with your sponsor logo --->
-        <img src="img/sponsors/Your-Sponsor-Here.svg" width=100%> <!--- replace the directory with your sponsor logo --->
-        <img src="img/sponsors/Your-Sponsor-Here.svg" width=100%> <!--- replace the directory with your sponsor logo --->
+        <img src="img/sponsors/OICR_Logo.jpeg" width=100%>
+        <img src="img/sponsors/CIHR_Logo.jpeg" width=100%>
+        <img src="img/sponsors/Genome-Canada-Logo.svg" width=100%>
+        <img src="img/sponsors/OntarioGenomics_Logo.png" width=100%>
+        <img src="img/sponsors/HPC4Health_Logo.png" width=100%>
+        <img src="img/sponsors/BSCIlogo.png" width=100%>
+        <img src="img/sponsors/BrainCanadaLogo.png" width=100%>
+        <img src="img/sponsors/PMGC_Logo.png" width=100%>
 
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 

@@ -36,46 +36,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\usepackage{color}
-\usepackage{fancyvrb}
-\newcommand{\VerbBar}{|}
-\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-% Add ',fontsize=\small' for more characters per line
-\usepackage{framed}
-\definecolor{shadecolor}{RGB}{248,248,248}
-\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
-\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
-\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\BuiltInTok}[1]{#1}
-\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
-\newcommand{\ExtensionTok}[1]{#1}
-\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\ImportTok}[1]{#1}
-\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\NormalTok}[1]{#1}
-\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -133,18 +93,18 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
-\usepackage{bookmark}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  pdftitle={{[}Name of Workshop{]}{[}Year{]}},
-  pdfauthor={Instructors: {[}list instructor names here{]}},
+  pdftitle={Introductory Spatial 'Omics Analysis: Visium HD},
+  pdfauthor={Instructors: Shamini Ayyadhury, Amina Abow, Melanie Peralta, Savannah Kipatrick, Alyona Ivanova, Trevor Pugh},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
-\title{{[}Name of Workshop{]}{[}Year{]}}
-\author{Instructors: {[}list instructor names here{]}}
-\date{{[}Insert dates of the workshop{]}}
+\title{Introductory Spatial 'Omics Analysis: Visium HD}
+\author{Instructors: Shamini Ayyadhury, Amina Abow, Melanie Peralta, Savannah Kipatrick, Alyona Ivanova, Trevor Pugh}
+\date{Feb.~20-21, 2025}
 
 \begin{document}
 \maketitle
@@ -153,151 +113,81 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\part{Introduction}\label{part-introduction}
+\hypertarget{part-introduction}{%
+\part{Introduction}\label{part-introduction}}
 
-\chapter{Welcome}\label{welcome}
+\hypertarget{welcome}{%
+\chapter{Welcome}\label{welcome}}
 
-Welcome to CBW's {[}workshop name, year{]} Workshop!
+Welcome to the workshop page for Introductory Spatial 'Omics Analysis: Visium HD 2025!
 
-Put some introductory content here. (ex. links to bioinformatics.ca, general info)
+\hypertarget{course-schedule}{%
+\chapter{Course Schedule}\label{course-schedule}}
 
-\chapter{Course Schedule}\label{course-schedule}
+\begin{longtable}[]{@{}
+  >{\centering\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1391}}
+  >{\centering\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.4261}}
+  >{\centering\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1391}}
+  >{\centering\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2957}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\centering
+Time (Eastern)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
+Feb.~20
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
+Time (Eastern)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
+Feb.~21
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+8:30 & Arrivals \& Check-in & 8:30 & Arrivals \\
+9:00 & Welcome (Nia Hughes) & 9:00 & Module 4 (Savannah Kilpatrick) \\
+9:05 & Zhibin (Compute) & & \\
+9:15 & Opening Speech - Trevor Pugh (BSCI) & & \\
+10:15 & Break (15min) & 11:00 & Break (15min) \\
+10:30 & Panorama of Spatial Biology (Shamini Ayyadhury) & 11:15 & Module 5 (Alyona Ivanova) \\
+11:30 & Module 1 (Amina Abow) & & \\
+12:00 & Lunch (45min) & 13:15 & Class photo + Lunch (45min) \\
+12:45 & Module 1 (Melanie Peralta) & 14:00 & Module 6 (Shamini Ayyadhury) \\
+13:15 & Module 2 (Savannah Kipatrick) & & \\
+15:15 & Break (15min) & 16:00 & Survey \& Closing Remarks \\
+15:30 & Module 3 (Shamini Ayyadhury) & 16:15 & Guest Speaker (Panoramics Event) \\
+17:30 & Finished & 17:30 & Social + Networking \\
+\end{longtable}
 
-Copy paste a table into \url{https://www.tablesgenerator.com/markdown_tables} (select convert to markdown) to create a table in markdown.
+\hypertarget{pre-workshop-materials}{%
+\section{Pre-workshop Materials}\label{pre-workshop-materials}}
 
-\section{Pre-workshop Materials}\label{pre-workshop-materials}
+Coming soon!
 
-Click \href{insert\%20link\%20here}{here} for your prework!
+\hypertarget{computing-setup-downloads}{%
+\section{Computing Setup \& Downloads}\label{computing-setup-downloads}}
 
-\section{Computing Setup \& Downloads}\label{computing-setup-downloads}
+Coming soon!
 
-Insert downloads (ex. datasets) or other tech instructions here (ex. AWS Instructions)
+\hypertarget{meet-your-faculty}{%
+\section{Meet Your Faculty}\label{meet-your-faculty}}
 
-\section{Meet Your Faculty}\label{meet-your-faculty}
+Coming soon!
 
-Here's your team!
+\hypertarget{part-modules}{%
+\part{Modules}\label{part-modules}}
 
-\subsection{Instructor, TA, \ldots{}}\label{instructor-ta}
+\hypertarget{module-1}{%
+\chapter{Module 1}\label{module-1}}
 
-\begin{quote}
-Job Title
-Company/University/\ldots{}
-Location
+Coming soon!
 
---- contact information
-\end{quote}
+\hypertarget{module-2}{%
+\chapter{Module 2}\label{module-2}}
 
-{[}insert description of the person{]}
+\hypertarget{lecture}{%
+\section{Lecture}\label{lecture}}
 
-\subsection{Michelle Brazas, PhD}\label{michelle-brazas-phd}
-
-\includegraphics{./img/faculty/michelle-brazas.jpg}\\
-
-\begin{quote}
-Scientific Director
-Canadian Bioinformatics Workshops (CBW)
-Toronto, ON, CA
-
---- \href{mailto:support@bioinformatics.ca}{\nolinkurl{support@bioinformatics.ca}}
-\end{quote}
-
-Dr.~Michelle Brazas is the Associate Director for Adaptive Oncology at the Ontario Institute for
-Cancer Research (OICR), and acting Scientific Director at Bioinformatics.ca. Previously, Dr.
-Brazas was the Program Manager for Bioinformatics.ca and a faculty member in
-Biotechnology at BCIT. Michelle co-founded and runs the Toronto Bioinformatics User Group
-(TorBUG) now in its 11th season, and plays an active role in the International Society of
-Computational Biology where she sits on the Board of Directors and Executive Board.
-
-\subsection{Nia Hughes (she/her)}\label{nia-hughes-sheher}
-
-\includegraphics{./img/faculty/nia-hughes.jpeg}\\
-
-\begin{quote}
-Program Manager, Bioinformatics.ca
-Ontario Institute for Cancer Research
-Toronto, ON, Canada
-
---- \href{mailto:nia.hughes@oicr.on.ca}{\nolinkurl{nia.hughes@oicr.on.ca}}
-\end{quote}
-
-Nia is the Program Manager for Bioinformatics.ca, where she coordinates the Canadian
-Bioinformatics Workshop Series. Prior to starting at OICR, she completed her M.Sc. in
-Bioinformatics from the University of Guelph in 2020 before working there as a
-bioinformatician studying epigenetic and transcriptomic patterns across maize varieties.
-
-\section{Class Photo}\label{class-photo}
-
-\textless- Replace the file address to your actual class photo file location
-
-\part{Modules}\label{part-modules}
-
-\chapter{Module 1}\label{module-1}
-
-Welcome to module 1!
-
-\section{Lecture}\label{lecture}
-
-Here is an example of a pdf embedded:
-
-\includegraphics[width=1\textwidth,height=9.375in]{content-files/sample-pdf.pdf}~
-
-Here is an example of a YouTube video embedded:
-
-\subsection{Downloads}\label{downloads}
-
-{[}insert your downloads for this module here (ex. datasets){]}
-
-\section{Lab}\label{lab}
-
-{[}Your lab here{]}
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\CommentTok{\# Your R code here}
-
-\CommentTok{\# For example:}
-\NormalTok{x }\OtherTok{\textless{}{-}} \DecValTok{42}
-\NormalTok{x}
-\end{Highlighting}
-\end{Shaded}
-
-\begin{verbatim}
-## [1] 42
-\end{verbatim}
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\CommentTok{\# Your python code here}
-
-\CommentTok{\# For example:}
-\BuiltInTok{print}\NormalTok{(}\StringTok{"hello world"}\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
-
-\begin{verbatim}
-## hello world
-\end{verbatim}
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\CommentTok{\# Your bash code here}
-
-\CommentTok{\# For example:}
-\CommentTok{\#pwd}
-\end{Highlighting}
-\end{Shaded}
-
-Try running these code ``chunks'' by pressing the green (left-pointing) triangle next to your code chunks.
-
-You will see the code run in the console and the output provided below the code chunk.
-
-The output of the code will also be produced under the code chunk on your website page.
-
-\chapter{Module 2}\label{module-2}
-
-\section{Lecture}\label{lecture-1}
-
-\section{Lab}\label{lab-1}
+Coming soon!
 
   \bibliography{book.bib,packages.bib}
 
