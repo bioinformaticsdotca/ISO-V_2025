@@ -12,6 +12,6 @@
 |      12:00     |                  Lunch (45min)                  |      13:15     |    Class photo + Lunch (45min)   |
 |      12:45     |            Module 1 (Melanie Peralta)           |      14:00     |   Module 6 (Shamini Ayyadhury)   |
 |      13:15     |          Module 2 (Savannah Kipatrick)          |                |                                  |
-|      15:15     |                  Break (15min)                  |      16:00     |     Survey & Closing Remarks     |
-|      15:30     |           Module 3 (Shamini Ayyadhury)          |      16:15     | Guest Speaker (Panoramics Event) |
-|      17:30     |                     Finished                    |      17:30     |        Social + Networking       |
+|      15:15     |                  Break (15min)                  |      16:00     |     Closing Talk (Gary Bader)    |
+|      15:30     |           Module 3 (Shamini Ayyadhury)          |      16:30     |     Survey & Closing Remarks     |
+|      17:30     |                     Finished                    |      17:45     |        Social + Networking       |

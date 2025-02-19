@@ -1,16 +1,19 @@
 --- 
-title: "Introductory Spatial 'Omics Analysis: Visium HD"
-author: "Instructors: Shamini Ayyadhury, Amina Abow, Melanie Peralta, Savannah Kipatrick, Alyona Ivanova, Trevor Pugh"
+title: 'Introductory Spatial ''Omics Analysis: Visium HD'
+author: 'Instructors: Shamini Ayyadhury, Amina Abow, Melanie Peralta, Savannah Kipatrick,
+  Alyona Ivanova, Trevor Pugh'
 date: "Feb. 20-21, 2025"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-url: https://bioinformaticsdotca.github.io/ISO-V_2025 # [CHANGE THIS LINK TO YOUR LANDING PAGE LINK]
-cover-image: img/ISO_logo.jpg # change this to the CBW icon for your workshop
+bibliography:
+- book.bib
+- packages.bib
+url: "https://bioinformaticsdotca.github.io/ISO-V_2025"
+cover-image: img/ISO_logo.jpg
 description: |
   CBW's Bookdown Template for Workshops
 link-citations: yes
-github-repo: bioinformaticsdotca.github.io/ISO-V_2025 # change this to your own repo
+github-repo: "bioinformaticsdotca.github.io/ISO-V_2025"
 favicon: img/favicon.ico
 ---
 

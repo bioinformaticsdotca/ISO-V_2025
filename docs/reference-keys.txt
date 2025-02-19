@@ -1,7 +1,6 @@
 welcome
 course-schedule
 pre-workshop-materials
-computing-setup-downloads
 meet-your-faculty
 module-1
 module-2
