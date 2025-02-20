@@ -1,9 +1,25 @@
 # (PART) Modules {-}
 
-# Module Slides
+# Module Materials
 
-[Trevor Pugh Lecture](https://drive.google.com/file/d/1L0QxUN6YaxNonUczVfyQBeJ4-MWImSc7/view?usp=drive_link)  
-[Panorama of Spatial Biology](https://drive.google.com/file/d/1t4Z5u5fH88hJtrOAU6dHRmmnHvMF_LJF/view?usp=sharing)  
+[Introduction Slides](https://drive.google.com/file/d/1L0QxUN6YaxNonUczVfyQBeJ4-MWImSc7/view?usp=drive_link)  
+
+[Module 0: Panorama of Spatial Biology Slides](https://drive.google.com/file/d/1t4Z5u5fH88hJtrOAU6dHRmmnHvMF_LJF/view?usp=sharing)  
 [Module 1a Slides](https://drive.google.com/file/d/1nr1rJdjv05NfZzsp0gYgUITMqX9g_YS_/view?usp=drive_link)  
 [Module 1b Slides](https://drive.google.com/file/d/1B5CHM_i0i16G2MN8nRQLDdOtkq1K3ZKM/view?usp=drive_link)  
+
 [Module 2 Slides](https://drive.google.com/file/d/1faXyFrfshZ-IyUOo7IYaj2YJI3Y0e8LF/view?usp=drive_link)  
+[Module 2 Lab Script](https://drive.google.com/file/d/1b0klCLUidn7wMf9DmHmQ4W9uITMzAF_U/view?usp=drive_link)  
+
+[Module 3 Slides](https://drive.google.com/file/d/1F6a8Sksim1tTmIXN6OXEKNIwN23yC5Kd/view?usp=drive_link)  
+[Module 3a Lab Script](https://drive.google.com/file/d/1eluCP0JR7BhnJPMDiYn5mtWYWuaugflt/view?usp=drive_link)  
+[Module 3b Lab Script: Blanks](https://drive.google.com/file/d/1bPR5ja8SqT9tvpdiFCjLv1CoOBHbJLnw/view?usp=drive_link)  
+<!--[Module 3b Lab Script: Filled](https://drive.google.com/file/d/1ZzUSo8_T9U2Iz3hOfTyUgA1zyYM5Cq9s/view?usp=drive_link)  -->
+
+[Module 4 Slides](https://drive.google.com/file/d/1RM-NuEzzlGALL1HS4rc5DvxDsGWivOAa/view?usp=drive_link)  
+[Module 4 Lab Script](https://drive.google.com/file/d/1aNyIe9fYdDB8rFZQcTs6UGcjO93zzixg/view?usp=drive_link)  
+
+[Module 5 Lab Script](https://drive.google.com/file/d/1H8MeYzWk9ZtamZLplQdZCibEmogf0sGg/view?usp=drive_link)  
+
+[Module 6 Lab Script: Blanks](https://drive.google.com/file/d/1k3_Bg0q6qWkUD44QNy4uRsTpxuOlNFlx/view?usp=drive_link)  
+<!--[Module 6 Lab Script: Filled](https://drive.google.com/file/d/1mMxQSLLC61EUcMhnXzgzdXZHmT2Akdl_/view?usp=drive_link)  -->
