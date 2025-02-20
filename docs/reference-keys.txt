@@ -2,6 +2,4 @@ welcome
 course-schedule
 pre-workshop-materials
 meet-your-faculty
-module-1
-module-2
-lecture
+module-slides
