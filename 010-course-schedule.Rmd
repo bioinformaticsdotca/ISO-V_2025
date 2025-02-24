@@ -1,5 +1,7 @@
 # Course Materials
 
+**Hello world!**
+
 ## Course Schedule
 
 | Time (Eastern) |                     Feb. 20                     | Time (Eastern) |              Feb. 21             |
