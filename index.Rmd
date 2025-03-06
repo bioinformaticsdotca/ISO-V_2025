@@ -1,7 +1,7 @@
 --- 
 title: 'Introductory Spatial ''Omics Analysis: Visium HD'
 author: 'Instructors: Shamini Ayyadhury, Amina Abow, Melanie Peralta, Savannah Kipatrick,
-  Alyona Ivanova, Trevor Pugh'
+  Alyona Ivanova, Trevor Pugh, Gary Bader'
 date: "Feb. 20-21, 2025"
 site: bookdown::bookdown_site
 documentclass: book
@@ -17,8 +17,10 @@ github-repo: "bioinformaticsdotca.github.io/ISO-V_2025"
 favicon: img/favicon.ico
 ---
 
-# (PART) Introduction {-}
+# (PART) Welcome {-}
 
 # Welcome
 
 Welcome to the workshop page for Introductory Spatial 'Omics Analysis: Visium HD 2025!
+
+

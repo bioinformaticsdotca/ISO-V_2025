@@ -1,9 +1,0 @@
-# Module 2
-
-## Slides
-
-
-[Download module 2 slides here](https://drive.google.com/file/d/1faXyFrfshZ-IyUOo7IYaj2YJI3Y0e8LF/view?usp=drive_link)  
-
-## Scripts
-[Module 2 Lab Script](https://drive.google.com/file/d/1b0klCLUidn7wMf9DmHmQ4W9uITMzAF_U/view?usp=drive_link)  

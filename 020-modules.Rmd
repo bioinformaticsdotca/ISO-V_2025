@@ -1,0 +1,129 @@
+# (PART) Modules {-}
+
+# Opening Presentation: Introduction to Spatial Single Cell RNA-Seq Technologies 
+
+## Lecture Recording
+<iframe width= "640" height="480" src="https://www.youtube.com/embed/SLNXQ7rThZw?si=fOlvU1uz4qI8hXyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Opening Lecture slides: [PDF](https://drive.google.com/file/d/1L0QxUN6YaxNonUczVfyQBeJ4-MWImSc7/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1Ci-OU_D4Apr_CEF-O7hCqc_82oUb3qD3/edit?usp=drive_link&ouid=117048550728369866672&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1L0QxUN6YaxNonUczVfyQBeJ4-MWImSc7/preview" width="640" height="480" allow="autoplay"></iframe>  
+
+
+# Module 0: Panorama of Spatial Biology
+
+## Lecture Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6pSHeVIY10?si=jU-twtO_eaaISPvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module 0 slides: [PDF](https://drive.google.com/file/d/1t4Z5u5fH88hJtrOAU6dHRmmnHvMF_LJF/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1nEDGJNf_puBpw31rTAmbh8p8ea_2GaHU/edit?usp=drive_link&ouid=117048550728369866672&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1t4Z5u5fH88hJtrOAU6dHRmmnHvMF_LJF/preview" width="640" height="480" allow="autoplay"></iframe>
+
+# Module 1a: Garbage In, Garbage Out
+
+## Lecture Recordings
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfEeg0tE7-Q?si=MG7kaX3xANftRcM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module 1a slides: [PDF](https://drive.google.com/file/d/1nr1rJdjv05NfZzsp0gYgUITMqX9g_YS_/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1o5rz-yYyWmLvDRuXK54cH9ACRzD9XvkD/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true) 
+
+<iframe src="https://drive.google.com/file/d/1nr1rJdjv05NfZzsp0gYgUITMqX9g_YS_/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+# Module 1b: Histology Preparation for Visium HD
+
+## Lecture Recordings
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g38p4QtQpOg?si=wHkqnt_7KcrKTPO5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module 1b slides: [PDF](https://drive.google.com/file/d/1B5CHM_i0i16G2MN8nRQLDdOtkq1K3ZKM/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1zjmoniqRR0t5nTRJHulr144OhZQJAFxh/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1B5CHM_i0i16G2MN8nRQLDdOtkq1K3ZKM/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+# Module 2: Normalization and Transforming Your Data
+
+## Lecture Recording
+https://youtu.be/9RkUO8kegOQ?si=UAsiY_1LyE00quel
+
+## Lecture Slides
+Download Module 2 slides: [PDF](https://drive.google.com/file/d/1faXyFrfshZ-IyUOo7IYaj2YJI3Y0e8LF/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1VkplfgjVtbl42wz-q68mhf16T6_IsrNs/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1faXyFrfshZ-IyUOo7IYaj2YJI3Y0e8LF/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Scripts
+[Module 2 Lab Script](https://drive.google.com/file/d/1b0klCLUidn7wMf9DmHmQ4W9uITMzAF_U/view?usp=drive_link)  
+
+# Module 3: Building Your Spatial Model
+
+## Lecture Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GeS9-5aZbbc?si=5Nd6KXwJpLKf0Upk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module 3 slides: [PDF](https://drive.google.com/file/d/1F6a8Sksim1tTmIXN6OXEKNIwN23yC5Kd/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1XmzhV1eQbtqPCOS0TTPIklQxmWnpxTwL/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1F6a8Sksim1tTmIXN6OXEKNIwN23yC5Kd/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Scripts
+[Module 3a Lab Script](https://drive.google.com/file/d/1eluCP0JR7BhnJPMDiYn5mtWYWuaugflt/view?usp=drive_link)  
+[Module 3b Lab Script: Blanks](https://drive.google.com/file/d/1bPR5ja8SqT9tvpdiFCjLv1CoOBHbJLnw/view?usp=drive_link)  
+[Module 3b Lab Script: Filled](https://drive.google.com/file/d/1ZzUSo8_T9U2Iz3hOfTyUgA1zyYM5Cq9s/view?usp=drive_link)  
+
+# Module 4: Gene Enquiry and Visualization
+
+## Lecture Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q2prSOQ2x4Q?si=7z2DZIDGo-Xk8X5t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module 4 slides: [PDF](https://drive.google.com/file/d/1RM-NuEzzlGALL1HS4rc5DvxDsGWivOAa/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/11UcNVa9zeSqkFbhBvFm6tT6FAaQQi6P3/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1RM-NuEzzlGALL1HS4rc5DvxDsGWivOAa/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Scripts
+[Module 4 Lab Script](https://drive.google.com/file/d/1aNyIe9fYdDB8rFZQcTs6UGcjO93zzixg/view?usp=drive_link)  
+
+
+# Module 5: Visualizing Gene Expression in Tissue Context
+
+## Lecture Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHvnYCa8mM8?si=PFmLBI1YzblpV3n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module 5 slides: [PDF](https://drive.google.com/file/d/1F_HHFKwab_hS86TmOLwns6s93Elh1klf/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1hufOKFtTgMQTLJDZNqNbWLWAnuR5FUif/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1F_HHFKwab_hS86TmOLwns6s93Elh1klf/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Scripts
+[Module 5 Lab Script](https://drive.google.com/file/d/1H8MeYzWk9ZtamZLplQdZCibEmogf0sGg/view?usp=drive_link)  
+
+
+# Module 6: Computational Scaling and Conclusion
+
+## Lecture Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_X6p9s045m0?si=2WW2FwpnZQcDXyuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module 6a (Computational Scaling) slides: [PDF](https://drive.google.com/file/d/1R8hOxKaBxOF97t0uNx-s6FjNNIsqjcsw/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1N6w89VGaj8aSRYVFZ7kVEIwoox6oatW1/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true)  
+Download Module 6b (Conclusion) slides: [PDF](https://drive.google.com/file/d/1q9NLfxHl3Uk0ijswXISHZxz6zsJrCUYX/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1GfYlkz92KqXEu0guObYGUiCAhGu2Y7qy/edit?usp=drive_link&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1R8hOxKaBxOF97t0uNx-s6FjNNIsqjcsw/preview" width="640" height="480" allow="autoplay"></iframe>  
+
+<iframe src="https://drive.google.com/file/d/1q9NLfxHl3Uk0ijswXISHZxz6zsJrCUYX/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Scripts
+[Module 6 Lab Script: Blanks](https://drive.google.com/file/d/1k3_Bg0q6qWkUD44QNy4uRsTpxuOlNFlx/view?usp=drive_link)  
+[Module 6 Lab Script: Filled](https://drive.google.com/file/d/1mMxQSLLC61EUcMhnXzgzdXZHmT2Akdl_/view?usp=drive_link)  
+
+
+# Concluding Remarks
+
+## Lecture Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GOxQ1PPLM2Y?si=03-blf_eIUz6NCyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+Download Module  slides: [PDF](https://drive.google.com/file/d/1qMzsIrQYabUUmPasLhm3apK_74WPDRus/view?usp=drive_link) | [PPTX](https://docs.google.com/presentation/d/1OHyck8Lt6UJbcTN1GCy5EbnXeBIvSbG2/edit?usp=sharing&ouid=115729968211645905937&rtpof=true&sd=true)  
+
+<iframe src="https://drive.google.com/file/d/1qMzsIrQYabUUmPasLhm3apK_74WPDRus/preview" width="640" height="480" allow="autoplay"></iframe>
+
