@@ -25,4 +25,4 @@ Welcome to the workshop page for Introductory Spatial 'Omics Analysis: Visium HD
 
 ## Class Photo
 
-<img src="img/ISO-V_2025_ClassPhoto.png" width=100%>
+
