@@ -7,7 +7,7 @@ bookdown::gitbook:
         <img src="img/bioinformatics_logo.png" width="90%" alt="bioinformatics.ca logo" style="display:block; margin-left:auto; margin-right:auto; margin-top:15px;">
         </a>
 
-        <li><strong><a href="./">Introductory Spatial 'Omics Analysis: Visium HD</a></strong></li>
+        <li><center><strong><a href="./"><br>Introductory Spatial 'Omics Analysis:<br>Visium HD<br><br></a></strong></center></li>
 
         <a href="https://bioinformaticsdotca.github.io/ISO-V_2025">
         <img src="img/ISO_logo.jpg" width="90%" alt="ISO logo" style="display:block; margin-left:auto; margin-right:auto; ">
