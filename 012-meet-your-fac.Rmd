@@ -73,6 +73,13 @@ Melanie is a registered Medical Laboratory Technologist and member of CMLTO in g
 
 ### Yiyan Wu
 
+<img src="./img/faculty/yiyan-wu.jpg" width="200">
+
+>Graduate Student<br>
+Princess Margaret Cancer Centre
+
+Yiyan Wu is a PhD candidate at the University of Toronto and a member of the Gaiti Lab at the Princess Margaret Cancer Centre. Her research focuses on glioblastoma, where she integrates single-cell multiome and spatial technologies to investigate invasive tumor cells and their interactions with the brain tumor microenvironment.
+
 ### Trevor Pugh
 
 <img src="https://bioinformatics.ca/wp-content/uploads/2022/05/PughNewPic.jpeg" width="200">
