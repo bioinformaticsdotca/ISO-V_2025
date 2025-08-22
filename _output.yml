@@ -1,5 +1,8 @@
 bookdown::gitbook:
   css: style.css # This is how bookdown knows to look at style.css for formatting
+    includes:                             # <<< ADDED/ENSURED THIS SECTION
+    in_header:                           # <<<
+      - _bioschemas.html
   config:
     toc: # Table of Contents
       before: |
